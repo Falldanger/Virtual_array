@@ -1,0 +1,6 @@
+Virtual arrays
+
+Add the class created in the previous exercise by implementing the ArrayAccess interface.
+It is necessary that you can easily and quickly add new items to the $ list (property from the previous exercise).
+Add a few elements to the object, referring to it as a regular array.
+Make sure that the list is iterated by the Iterator interface still works without errors.
